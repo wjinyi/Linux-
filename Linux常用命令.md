@@ -2,3 +2,7 @@
 ```bash
    rm -r -f filename
 ```
+finder前往路径快捷键
+```
+   shift+cmd+g
+```
